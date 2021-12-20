@@ -9,7 +9,7 @@ int main()
   float obt, total, percentage;
   string naam;
   cout << "Yeh Program Aapko Aapka Result bataney ma Guide Karey ga!\n\nAap apna Naam Likhein: ";
-  getline (cin, naam)
+  getline (cin, naam);
   cout << "\n\nAssalam-u-Alaikum "<<naam <<"!\n\nAb aap apni Age Likhein: ";
   cin >> umer;
   cout << "\n\nAcha, To Yaai aapka Naam \""<<naam <<"\" ha aur aap \""<<umer <<"\" Saal ke hein!\n\nTo ab aap Yeh bataein ke aapke Exams ke Total Marks kitne Hein? ";
